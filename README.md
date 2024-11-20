@@ -40,4 +40,10 @@ g++ -O3 -mavx2 -fopenmp -std=c++17 sha256_avx2_gen.cpp sha256_avx2.cpp -o sha256
 
 # For RIPEMD-160
 g++ -O3 -mavx2 -fopenmp -std=c++17 ripemd160_avx2_gen.cpp ripemd160_avx2.cpp -o ripemd160
+```
+
+---
+
+## ✌️**TIPS**
+BTC: bc1qtq4y9l9ajeyxq05ynq09z8p52xdmk4hqky9c8n
 
