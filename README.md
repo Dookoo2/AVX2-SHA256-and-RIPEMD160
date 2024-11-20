@@ -1,6 +1,9 @@
 # 🚀 Fast Hash Libraries: SHA-256 and RIPEMD-160
 
-This repository contains highly optimized implementations of the **SHA-256** and **RIPEMD-160** hash functions, designed for maximum performance using **AVX2**. These libraries achieve exceptional speed and are suitable for high-throughput cryptographic applications such as blockchain, data integrity verification, and research.
+This repository contains highly optimized implementations of the **SHA-256** and **RIPEMD-160** hash functions, designed for maximum performance using **AVX2**. These libraries achieve exceptional speed and are suitable for high-throughput cryptographic applications such as blockchain, data integrity verification, and research.  
+The folders contain example programs that compute:  
+**SHA-256:** The SHA-256 hash of a Bitcoin compressed public key.  
+**RIPEMD-160:** The RIPEMD-160 hash derived from the SHA-256 hash.  
 
 ---
 
