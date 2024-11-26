@@ -17,7 +17,7 @@ The implementations were tested on a **virtual machine** running **Ubuntu 24** w
 
 ## ⚡ **Features**
 
-- **High Performance**: Optimized using **AVX2** and **SHA Extensions** for acceleration.
+- **High Performance**: Optimized using **AVX2** for acceleration.
 - **Cross-Platform**: Tested on Linux (Ubuntu 24) and can be compiled and run on other platforms with minimal modifications.
 - **Customizability**: The codebase is modular and can be extended or integrated into other projects.
 - **Ease of Integration**: Simple to integrate into other projects.
